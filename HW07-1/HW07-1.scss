@@ -1,0 +1,61 @@
+*{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+ul{
+  display: flex;
+  padding: 23px 10px 17px;
+}
+.menu-btn{
+ position: absolute;
+}
+.logo{
+  font-size: 30x;
+  color: #edf4f8;
+}
+.index{
+  
+}
+.register{
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #ffaa00;
+  padding: 5px 15px;
+  display: inline-block;
+  border-radius: 5%;
+  text-align: center;
+  -webkit-border-radius: 5%;
+  -moz-border-radius: 5%;
+  -ms-border-radius: 5%;
+  -o-border-radius: 5%;
+}
+
+  a{
+    color: #ffffff;
+  }
+  p{
+    color: #66b8e0;
+  }
+  img{
+    width: 100%;
+  }
+
+.about{
+  background-image: url(./RWD切版/images/page01_img01.png);
+}
+
+.reasons{
+  .txt-box{
+    h3{
+      color: #555555;
+      font-size: 22px;
+    }
+    p{color: #7d7d7d;}
+    font-size: 16px;
+  }
+}
+
+.footer{
+
+}
